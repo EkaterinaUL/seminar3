@@ -45,6 +45,7 @@ https://learn.microsoft.com/contribute/how-to-write-links
 
 ## Цитаты
 
+Для конфликта
 
 ## Строчные элементы
 
